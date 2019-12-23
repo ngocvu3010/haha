@@ -3,3 +3,4 @@ class ApplicationRecord < ActiveRecord::Base
 end
 heheh
 hehhhehehehhe
+hôhohohoo
